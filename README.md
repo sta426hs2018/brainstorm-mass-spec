@@ -1,8 +1,9 @@
 # Mass-spectrometry
-This repository was created by members of group 4.
+This repository was created by members of group 4:
+* *write your names here*
+* Ricards Marcinkevics
 
 ## Applications
-
 Applications of mass-spectrometry include [https://www.thermofisher.com/ch/en/home/industrial/mass-spectrometry/mass-spectrometry-learning-center/mass-spectrometry-applications-area.html][(see this page for more applications)]:
 * characterization of proteins;
 * cancer screening, biomarker discovery and profiling;
