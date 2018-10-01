@@ -4,7 +4,7 @@ This repository was created by members of group 4:
 * Ricards Marcinkevics
 
 ## Applications
-Applications of mass-spectrometry include [][1]:
+Applications of mass-spectrometry include [blah][1]:
 * characterization of proteins;
 * cancer screening, biomarker discovery and profiling;
 * drug discovery, metabolism studies, drug therapy monitoring;
